@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/karleiacoelho/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=karleiacoelho&theme=dark&show_icons=true" />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karleiacoelho&layout=compact&langs_count=8&card_width=180&theme=dark" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=karleiacoelho&theme=tokyonight&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karleiacoelho&layout=compact&langs_count=8&card_width=180&theme=tokyonight" />
 </div>  
 
 ##
