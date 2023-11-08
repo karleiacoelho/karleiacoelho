@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Karleia 👋
 
 - 🌱 Atualmente estou estudando programação em Java.
-- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/karleiacoelho/github-readme-stats">
